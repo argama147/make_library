@@ -50,3 +50,11 @@ compile_commands.json
 
 # QtCreator local machine specific files for imported projects
 *creator.user*
+
+# Binary
+*.exe
+*.a
+*.lib
+*.dll
+*.dylib
+*.bundle
