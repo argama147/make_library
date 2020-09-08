@@ -3,7 +3,6 @@
 
 # 書籍情報
 <img src="https://user-images.githubusercontent.com/5881452/92421128-fdee9c00-f1b1-11ea-8878-d7e57143357a.jpg" width="320px">
-下記のサイト様で取り扱っています。
 
 # サークル情報
 
