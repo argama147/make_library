@@ -40,22 +40,20 @@ Hello, World!
 # MinGWの実行ログ
 
 ```
-$ cd /C/make_library/C_Makefile/StaticLink_path_a/makeLibrary/
-$ ls
-include/  Makefile  src/
+$ cd //C/make_library/C_Makefile/StaticLink_path_lib/makeLibrary/
 $ mingw32-make.exe clean
-rm -f *.o *~ hello.a
+rm -f *.o *~ hello.lib
 $ mingw32-make.exe
 gcc -O3 -Wall -I./include -c -o word.o ./src/word.c
-ar rcs hello.a word.o
+ar rcs hello.lib word.o
 $ ls
-hello.a  include/  Makefile  src/  word.o
+hello.lib  include/  Makefile  src/  word.o
 $ cd ../useLibrary/
 $ mingw32-make.exe clean
 rm -f *.o *~ HelloWorld
 $ mingw32-make.exe
 gcc -O3 -Wall -I../makeLibrary/include -c main.c
-gcc -o HelloWorld main.o ../makeLibrary/hello.a
+gcc -o HelloWorld main.o ../makeLibrary/hello.lib
 $ ls
 HelloWorld.exe*  main.c  main.o  Makefile
 $ ./HelloWorld.exe
