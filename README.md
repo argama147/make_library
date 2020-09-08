@@ -2,11 +2,16 @@
 このリポジトリは技術同人誌「ライブラリを作ろう」用のサンプルプログラムの格納場所です。
 
 # 書籍情報
+
+書籍名：技術同人誌「ライブラリを作ろう」
+
+[技術書典9のオンラインマーケット](https://techbookfest.org/market)で頒布中です。
+
 <img src="https://user-images.githubusercontent.com/5881452/92421128-fdee9c00-f1b1-11ea-8878-d7e57143357a.jpg" width="320px">
 
 # サークル情報
 
-[技術書典9のサークル：エゥーゴのページ](https://techbookfest.org/organization/43220004)
+[サークル：エゥーゴ](https://techbookfest.org/organization/43220004)
 
 
 # 免責事項
