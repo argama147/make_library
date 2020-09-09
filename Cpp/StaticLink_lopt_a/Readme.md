@@ -12,6 +12,9 @@
   * Makefile
 * 動作環境
   * Cygwin
+  * Ubuntu
+  * macOS
+  * MinGW
 
 # Cygwinの実行ログ
 
@@ -33,3 +36,67 @@ HelloWorld.exe  main.cpp  main.o  Makefile
 $ ./HelloWorld.exe
 Hello,World!
 ```
+
+# Ubuntuの実行ログ
+
+```
+$ cd make_library/Cpp/StaticLink_lopt_a/makeLibrary/
+$ make clean;make
+rm -f *.o *~ libhello.a
+g++ -O3 -Wall -I./include -c -o word.o src/word.cpp
+ar rcs libhello.a word.o
+$ ls
+Makefile  include  libhello.a  src  word.o
+$ cd ../useLibrary/
+$ make clean;make
+rm -f *.o *~ HelloWorld
+g++ -O3 -Wall -I../makeLibrary/include -c main.cpp
+g++ -O3 -Wall -I../makeLibrary/include -o HelloWorld main.o -L../makeLibrary/ -lhello
+$ ls
+HelloWorld  Makefile  main.cpp  main.o
+$ ./HelloWorld 
+Hello,World!
+```
+
+# macOSの実行ログ
+
+```
+$ cd make_library/Cpp/StaticLink_lopt_a/makeLibrary/
+$ make clean;make
+rm -f *.o *~ libhello.a
+g++ -O3 -Wall -I./include -c -o word.o src/word.cpp
+ar rcs libhello.a word.o
+$ ls
+Makefile	include		libhello.a	src		word.o
+$ cd ../useLibrary/
+$ make clean;make
+rm -f *.o *~ HelloWorld
+g++ -O3 -Wall -I../makeLibrary/include -c main.cpp
+g++ -O3 -Wall -I../makeLibrary/include -o HelloWorld main.o -L../makeLibrary/ -lhello
+$ ls
+HelloWorld	Makefile	main.cpp	main.o
+$ ./HelloWorld 
+Hello,World!
+```
+
+# MinGWの実行ログ
+
+```
+$ cd /C/make_library/Cpp/StaticLink_lopt_a/makeLibrary/
+$ mingw32-make.exe clean;mingw32-make.exe
+rm -f *.o *~ libhello.a
+g++ -O3 -Wall -I./include -c -o word.o src/word.cpp
+ar rcs libhello.a word.o
+$ ls
+include/  libhello.a  Makefile  src/  word.o
+$ cd ../useLibrary/
+$ mingw32-make.exe clean;mingw32-make.exe
+rm -f *.o *~ HelloWorld
+g++ -O3 -Wall -I../makeLibrary/include -c main.cpp
+g++ -O3 -Wall -I../makeLibrary/include -o HelloWorld main.o -L../makeLibrary/ -lhello
+$ ls
+HelloWorld.exe*  libhello.a  main.cpp  main.o  Makefile
+$ ./HelloWorld.exe
+Hello,World!
+```
+

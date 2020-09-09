@@ -16,4 +16,19 @@
 # Ubuntuの実行ログ
 
 ```
+$ cd make_library/Cpp/DynamicLink_so/makeLibrary/
+$ make clean;make
+rm -f *.o *~ libhello.so
+g++ -O3 -Wall -shared -fPIC -I./include -o libhello.so src/word.cpp
+$ ls
+Makefile  include  libhello.so  src
+$ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$PWD
+$ cd ../useLibrary/
+$ make clean;make
+rm -f *.o *~ HelloWorld
+g++ -O3 -Wall -I../makeLibrary/include -o HelloWorld main.cpp -L../makeLibrary/ -lhello
+$ ls
+HelloWorld  Makefile  main.cpp
+$ ./HelloWorld 
+Hello,World!
 ```
