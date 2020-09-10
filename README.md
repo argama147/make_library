@@ -3,11 +3,11 @@
 
 # 書籍情報
 
-書籍名：技術同人誌「ライブラリを作ろう」
-
-[技術書典9のオンラインマーケット](https://techbookfest.org/market)で頒布中です。
+書籍名：技術同人誌「[ライブラリを作ろう](https://techbookfest.org/product/5108106740629504)」
 
 <img src="https://user-images.githubusercontent.com/5881452/92421128-fdee9c00-f1b1-11ea-8878-d7e57143357a.jpg" width="320px">
+
+[技術書典9のオンラインマーケット](https://techbookfest.org/market)で頒布中です。
 
 # サークル情報
 
