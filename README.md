@@ -1,7 +1,8 @@
 このリポジトリは技術同人誌「ライブラリを作ろう」用のサンプルプログラムの格納場所です。
 
 
-第３章と第５章については、実行結果をReadme.mdに記述しています。よければご参照ください。
+[第３章](https://github.com/argama147/make_library/tree/master/C_Makefile)と[第５章](https://github.com/argama147/make_library/tree/master/Cpp)については、実行結果をReadme.mdに記述しています。よければご参照ください。
+
 
 # 書籍情報
 
