@@ -11,6 +11,9 @@
 
 [技術書典9のオンラインマーケット](https://techbookfest.org/market)で頒布中です。
 
+[BOOTH様](https://booth.pm/ja/items/2368447)でも扱っています。
+
+
 # サークル情報
 
 [サークル：エゥーゴ](https://techbookfest.org/organization/43220004)
