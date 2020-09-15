@@ -10,9 +10,14 @@
 
 <img src="https://user-images.githubusercontent.com/5881452/92421128-fdee9c00-f1b1-11ea-8878-d7e57143357a.jpg" width="320px">
 
-[技術書典9のオンラインマーケット](https://techbookfest.org/market)で頒布中です。
+以下のサイトで扱っています。
 
-[BOOTH様](https://booth.pm/ja/items/2368447)でも扱っています。
+# [技術書典9のオンラインマーケット](https://techbookfest.org/market)
+
+https://techbookfest.org/product/5108106740629504?productVariantID=6672786418302976
+
+# BOOTH
+https://booth.pm/ja/items/2368447
 
 # サポート
 
