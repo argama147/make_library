@@ -19,6 +19,10 @@ https://techbookfest.org/product/5108106740629504?productVariantID=6672786418302
 # BOOTH
 https://booth.pm/ja/items/2368447
 
+
+# 技術書典9スペシャルオンラインイベントで紹介されました 
+https://youtu.be/9Et_hhNTG60?t=4200
+
 # サポート
 
 [サポートページ](https://github.com/argama147/make_library/wiki/SupportPage)
