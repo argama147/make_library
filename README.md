@@ -12,13 +12,16 @@
 
 以下のサイトで扱っています。
 
-# [技術書典9のオンラインマーケット](https://techbookfest.org/market)
+## [技術書典9のオンラインマーケット](https://techbookfest.org/market)
 
 https://techbookfest.org/product/5108106740629504?productVariantID=6672786418302976
 
-# BOOTH
+## BOOTH
 https://booth.pm/ja/items/2368447
 
+## 本書で扱うGCCのコンパイラオプション
+
+-o,-c,-I,-L,-l,-shared,-fPIC,-fpic,-dynamiclib,-bundle,-O,-W,-rpath,-rdynamic
 
 # 技術書典9スペシャルオンラインイベントで紹介されました 
 https://youtu.be/9Et_hhNTG60?t=4200
