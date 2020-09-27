@@ -12,14 +12,20 @@
 
 以下のサイトで扱っています。
 
-## [技術書典9のオンラインマーケット](https://techbookfest.org/market)
+## [技術書典 オンラインマーケット（PDF版）](https://techbookfest.org/market)
 
 https://techbookfest.org/product/5108106740629504?productVariantID=6672786418302976
 
-## BOOTH
+## BOOTH（PDF版）
 https://booth.pm/ja/items/2368447
 
-## 本書で扱うGCCのコンパイラオプション
+## とらのあな
+
+https://ecs.toranoana.jp/tora/ec/item/040030858035/
+※セット割引を適用している為、紙版を購入すると電子版が無料で付いてきます。
+
+
+# 本書で扱うGCCのコンパイラオプション
 
 -o,-c,-I,-L,-l,-shared,-fPIC,-fpic,-dynamiclib,-bundle,-O,-W,-rpath,-rdynamic
 
@@ -31,9 +37,10 @@ https://youtu.be/9Et_hhNTG60?t=4200
 [サポートページ](https://github.com/argama147/make_library/wiki/SupportPage)
 
 
-# サークル情報
+# エゥーゴ サークル情報
 
-[サークル：エゥーゴ](https://techbookfest.org/organization/43220004)
+[技術書典 サークルページ](https://techbookfest.org/organization/43220004)
+[とらのあな サークルページ](https://ecs.toranoana.jp/tora/ec/cot/circle/2UPA2C6Q8V7Md06Pd687/all/)
 
 # 追加情報
 
