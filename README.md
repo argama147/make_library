@@ -8,7 +8,7 @@
 
 書籍名：技術同人誌「[ライブラリを作ろう](https://techbookfest.org/product/5108106740629504)」
 
-※商業出版しました！ 商業版のサポートページは[こちら](https://github.com/argama147/lets_make_library)。出版社様のページは[こちら](https://nextpublishing.jp/book/12519.html)。
+※インプレスR&D社から商業出版しました！ 商業版のサポートページは[こちら](https://github.com/argama147/lets_make_library)。出版社様のページは[こちら](https://nextpublishing.jp/book/12519.html)。
 
 
 <img src="https://user-images.githubusercontent.com/5881452/92421128-fdee9c00-f1b1-11ea-8878-d7e57143357a.jpg" width="320px">
