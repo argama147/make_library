@@ -8,25 +8,18 @@
 
 書籍名：技術同人誌「[ライブラリを作ろう](https://techbookfest.org/product/5108106740629504)」
 
-※インプレスR&D社から商業出版しました！ 商業版のサポートページは[こちら](https://github.com/argama147/lets_make_library)。出版社様のページは[こちら](https://nextpublishing.jp/book/12519.html)。
-
-
 <img src="https://user-images.githubusercontent.com/5881452/92421128-fdee9c00-f1b1-11ea-8878-d7e57143357a.jpg" width="320px">
 
-以下のサイトで扱っています。
+# 技術同人誌を扱っているサイト
 
-## [技術書典 オンラインマーケット（PDF版）](https://techbookfest.org/market)
+※紙版は在庫がなくなりました。この本は、インプレスR&D社から商業出版化しています。紙版が欲しい方は商業版の購入をご検討ください。
+商業版のサポートページは[こちら](https://github.com/argama147/lets_make_library)。出版社様のページは[こちら](https://nextpublishing.jp/book/12519.html)。
 
-https://techbookfest.org/product/5108106740629504?productVariantID=6672786418302976
+## [技術書典オンラインマーケット](https://techbookfest.org/product/5108106740629504?productVariantID=6672786418302976)
 
-## BOOTH（PDF版）
-https://booth.pm/ja/items/2368447
+## [BOOTH](https://booth.pm/ja/items/2368447)
 
-## とらのあな
-
-https://ecs.toranoana.jp/tora/ec/item/040030858035/
-※セット割引を適用している為、紙版を購入すると電子版が無料で付いてきます。
-
+## [とらのあな](https://ecs.toranoana.jp/tora/ec/item/040030858035/)
 
 # 本書で扱うGCCのコンパイラオプション
 
