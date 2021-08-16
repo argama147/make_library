@@ -8,7 +8,7 @@
 
 書籍名：技術同人誌「[ライブラリを作ろう](https://techbookfest.org/product/5108106740629504)」
 
-<img src="https://user-images.githubusercontent.com/5881452/92421128-fdee9c00-f1b1-11ea-8878-d7e57143357a.jpg" width="320px">
+<img src="https://user-images.githubusercontent.com/5881452/129577042-14892c83-6996-4380-a813-6c17f0621f1c.png" width="320px">
 
 # 技術同人誌を扱っているサイト
 
